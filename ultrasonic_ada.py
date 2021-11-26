@@ -12,8 +12,8 @@ GPIO_ECHO = 10
 GPIO.setup(GPIO_TRIGGER, GPIO.OUT)
 GPIO.setup(GPIO_ECHO, GPIO.IN)
 
-ADAFRUIT_IO_USERNAME = "Jasminmmulla13"
-ADAFRUIT_IO_KEY = "aio_ggde16uSYB04lJLsBWa4mqvfAkEh"
+ADAFRUIT_IO_USERNAME = "chinmaykashid7"
+ADAFRUIT_IO_KEY = "aio_gkfkYB04lJLsBWa4mnjdfjEh"
 
 # Create an instance of the REST client.
 aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY)
